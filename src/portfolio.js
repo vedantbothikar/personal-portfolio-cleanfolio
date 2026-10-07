@@ -19,6 +19,7 @@ const about = {
     },
   ],
   resume: '/resume.pdf',
+  appleNeural: '/apple_neural.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/vedantbothikar',
     github: 'https://github.com/vedantbothikar',
